@@ -1,0 +1,94 @@
+[
+    {
+        "firstName": "Mario",
+        "lastName": "Rossi",
+        "username": "mrossi",
+        "password": "1234",
+        "email": "mario.rossi@example.com",
+        "jobTitle": "Ingegnere",
+        "gender": "Maschio",
+        "role": "simple"
+    },
+    {
+        "firstName": "Giulia",
+        "lastName": "Bianchi",
+        "username": "gbianchi",
+        "password": "1234",
+        "email": "giulia.bianchi@example.com",
+        "jobTitle": "Avvocato",
+        "gender": "Femmina",
+        "role": "simple"
+    },
+    {
+        "firstName": "Luca",
+        "lastName": "Verdi",
+        "username": "lverdi",
+        "password": "1234",
+        "email": "luca.verdi@example.com",
+        "jobTitle": "Medico",
+        "gender": "Maschio",
+        "role": "administrator"
+    },
+    {
+        "firstName": "Ernesto",
+        "lastName": "Rossi",
+        "username": "erossi",
+        "password": "1234",
+        "email": "ernesto.rossi@example.com",
+        "jobTitle": "Ingegnere",
+        "gender": "Maschio",
+        "role": "simple"
+    },
+    {
+        "firstName": "Giuseppe",
+        "lastName": "Rossi",
+        "username": "grossi",
+        "password": "1234",
+        "email": "giuseppe.rossi@example.com",
+        "gender": "Maschio",
+        "role": "simple"
+    },
+    {
+        "firstName": "Eriberti",
+        "lastName": "Bianchi",
+        "username": "ebianchi",
+        "password": "1234",
+        "email": "eriberti.bianchi@example.com"
+    },
+    {
+        "firstName": "Yaris",
+        "lastName": "Rossi",
+        "username": "yrossi",
+        "password": "1234",
+        "email": "yaris.rossi@example.com",
+        "jobTitle": "Professore",
+        "gender": "Maschio"
+    },
+    {
+        "firstName": "Umberto",
+        "lastName": "Rossi",
+        "username": "urossi",
+        "password": "1234",
+        "email": "umberto.rossi@example.com",
+        "jobTitle": "Calciatore",
+        "gender": "Maschio"
+    },
+    {
+        "firstName": "Raffaele",
+        "lastName": "Rossi",
+        "username": "rrossi",
+        "password": "1234",
+        "email": "raffaele.rossi@example.com",
+        "jobTitle": "Calciatore",
+        "gender": "Maschio"
+    },
+    {
+        "firstName": "Teramo",
+        "lastName": "Rossi",
+        "username": "trossi",
+        "password": "1234",
+        "email": "teramo.rossi@example.com",
+        "jobTitle": "Pilota",
+        "gender": "Maschio"
+    }
+]
